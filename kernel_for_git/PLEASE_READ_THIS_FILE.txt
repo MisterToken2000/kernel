@@ -8,7 +8,7 @@ commands:
 utilities:
         link: GNU Linker
         boot: NASM
-        kernel: GNU COMPILER COLLECTIO
+        kernel: GNU COMPILER COLLECTION
         start: qemu VM
 
 THANK YOU FOR READ!
