@@ -1,0 +1,11 @@
+#ifndef FILESYSTEM
+#define FILESYSTEM
+
+struct File
+{
+    char *name;
+    char *mean;
+};
+
+
+#endif
