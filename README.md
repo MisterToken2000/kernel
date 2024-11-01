@@ -1,4 +1,4 @@
-# KERNEL VERSION
+# KERNEL VERSIONS
 ```c
 #include <KERNEL/kernel>
 #incldue <KERNEL/kernel_lang>
