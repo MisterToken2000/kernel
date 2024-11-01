@@ -1,7 +1,7 @@
 # KERNEL VERSIONS
 ```c
 #include <KERNEL/kernel>
-#incldue <KERNEL/kernel_lang>
+#include <KERNEL/kernel_lang>
 
 void main()
 {
