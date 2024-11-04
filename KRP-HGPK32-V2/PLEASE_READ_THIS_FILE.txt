@@ -1,0 +1,14 @@
+HI!
+
+commands:
+	kernel: gcc -m32 -c main.c -o main.o
+	boot: nasm -f elf32 boot.asm -o boot.o
+	link: ld elf_i386 -T link.ld -o kernel main.o boot.o
+	start: qemu-system-x86_64 -kernel kernel
+utilities:
+	link: GNU Linker
+	boot: NASM
+	kernel: GNU COMPILER COLLECTIO
+	start: qemu VM
+
+THANK YOU FOR READ!
