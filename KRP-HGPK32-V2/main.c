@@ -204,10 +204,6 @@ kprint("Supported Processors: x86_64");
 kprint_newline();
 kprint("Supported Devices: Intel and AMD network cards, NVIDIA and AMD GPUs, SATA and NVMe storage devices");
 kprint_newline();
-kprint("Hybrid kernel writed by Maxim ");
-wprint("Bu");
-blue_background_print("ga");
-red_background_print("ev");
 kprint_newline();
     }
     else if (my_strcmp(input, "") == 0){}
