@@ -1,5 +1,4 @@
 # KERNEL VERSIONS
-# create kernel: telegram: @Unralf
 ```c
 #include <KERNEL/kernel>
 #include <KERNEL/kernel_lang>
